@@ -17,10 +17,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mumuy/calendar.git"
+        "url": "git+https://github.com/webvcd/wnl.git"
     },
     "bugs": {
-        "url": "https://github.com/mumuy/calendar/issues"
+        "url": "https://github.com/webvcd/wnl/issues"
     },
     "engines": {
         "node": ">=18",
@@ -45,7 +45,7 @@
         "build": "rollup -c",
         "watch": "rollup -wc"
     },
-    "homepage": "https://passer-by.com/calendar/",
+    "homepage": "https://github.com/webvcd/wnl/",
     "directories": {
     }
 }
